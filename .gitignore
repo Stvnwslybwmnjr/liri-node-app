@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+.env
+njtest
+package.json
+package-lock.json
+homework_instructions.md
+web-api-auth-examples
+package-lock.json

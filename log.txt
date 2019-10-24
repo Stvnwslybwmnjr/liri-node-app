@@ -1,0 +1,35 @@
+ COMMAND: movie-this QUERY: undefined 
+ COMMAND: spotify-this-song QUERY: thriller 
+ COMMAND: spotify-this-song QUERY: thriller 
+ COMMAND: spotify-this-song QUERY: thriller 
+ COMMAND: spotify-this-song QUERY: thriller 
+ COMMAND: concert-this QUERY: exhumed 
+ COMMAND: concert-this QUERY: exhumed 
+ COMMAND: concert-this QUERY: green day 
+ COMMAND: concert-this QUERY: exhumed 
+ COMMAND: concert-this QUERY: exhumed 
+ COMMAND: concert-this QUERY: exhumed 
+ COMMAND: concert-this QUERY: exhumed 
+ COMMAND: concert-this QUERY: exhumed 
+ COMMAND: concert-this QUERY: exhumed 
+ COMMAND: concert-this QUERY: exhumed 
+ COMMAND: concert-this QUERY: exhumed 
+ COMMAND: concert-this QUERY: exhumed 
+ COMMAND: concert-this QUERY: exhumed 
+ COMMAND: concert-this QUERY: exhumed 
+ COMMAND: concert-this QUERY: exhumed 
+ COMMAND: movie-this QUERY: the matrix 
+ COMMAND: movie-this QUERY: undefined 
+ Do What It Says was used.
+ Do What It Says was used.
+ Do What It Says was used.
+ COMMAND: spotify-this-song QUERY: "I Want it That Way" 
+ Do What It Says was used.
+ COMMAND: concert-this QUERY: exhumed 
+ COMMAND: spotify-this-song QUERY: beautiful 
+ COMMAND: spotify-this-song QUERY: beautiful 
+ COMMAND: spotify-this-song QUERY: beautiful 
+ COMMAND: spotify-this-song QUERY: beautiful 
+ COMMAND: spotify-this-song QUERY: beautiful 
+ COMMAND: movie-this QUERY: the matrix 
+ COMMAND: concert-this QUERY: exhumed 
