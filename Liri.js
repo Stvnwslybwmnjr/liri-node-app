@@ -37,11 +37,11 @@ function appendLog(text) {
 }
 
 function readRandom() {
-  fs.readFile("random.txt", "utf8", function(error, data) {
+    fs.readFile("random.txt", "utf8", function(error, data) {
     if (error) {
       return console.log(error);
     }
-    console.log(data);
+    // console.log(data);
     // spotifyIT(data);
     let randomArr = data.split(", ")
     command = randomArr[0];
@@ -100,10 +100,16 @@ function spotifyIT(song) {
       return console.log("Error occurred: " + err);
     }
     if (song == null) {
+      console.log("Artist",
+      JSON.stringify(data.tracks.items[4].album.artists[0].name, null, 10))
       console.log(
-        "Artist",
-        JSON.stringify(data.tracks.items[4].album.artists[0].name, null, 10)
+        "Album",
+        JSON.stringify(data.tracks.items[4].album.name, null, 10)
       );
+      console.log("Song", JSON.stringify(data.tracks.items[4].name, null, 10));
+      console.log(
+        "Preview Song!",
+        JSON.stringify(data.tracks.items[4].preview_url, null, 10))
     } else {
       for (let i = 0; i < data.tracks.items.length; i++) {
         console.log(

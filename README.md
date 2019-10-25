@@ -12,10 +12,6 @@ A Node-js Application! LIRI will search Spotify for songs, Bands in Town for con
 
 * type in 'node liri.js' into the terminal and instructions will display about how to use the different commands
 
-*Example IMAGE ===========================================================
-
-*========================================================================
-
 * What the functions do!
 
 * node liri.js spotify-this-song 'song title'
@@ -47,7 +43,18 @@ A Node-js Application! LIRI will search Spotify for songs, Bands in Town for con
 
 * node liri.js do-what-it-says
     this will read commands and queries from the random.txt file and run the corresponding function. In this case 'spotify-this'
-
+# Here I searched Take Five on spotify!
+![ScreenShot](img/spotify-take-five.png "Spotify")
+# Here I left the search blank!
+![ScreenShot](img/spotify-this-aceofbass.png "Spotify")
+# Here I searched Exhumed on Bands In Town!
+![ScreenShot](img/concert-this-exhumed.png "Bands in town")
+# Here I searched Nothing on OMDB!
+![ScreenShot](img/movie-this.png "OMDB")
+# Here I searched The Matrix on OMDB!
+![ScreenShot](img/movie-this-mrnobody.png "OMDB")
+# The do what it says command searched for query saved in Random.txt
+![ScreenShot](img/do-what-it-says.png "spotify")
 
 * These are the npm packages I used and are needed to run the app
 	1. fs package in node

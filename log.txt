@@ -33,3 +33,18 @@
  COMMAND: spotify-this-song QUERY: beautiful 
  COMMAND: movie-this QUERY: the matrix 
  COMMAND: concert-this QUERY: exhumed 
+ COMMAND: spotify-this-song QUERY: undefined 
+ COMMAND: spotify-this-song QUERY: undefined 
+ COMMAND: spotify-this-song QUERY: hotel california 
+ COMMAND: spotify-this-song QUERY: undefined 
+ COMMAND: spotify-this-song QUERY: take five 
+ COMMAND: concert-this QUERY: exhumed 
+ COMMAND: movie-this QUERY: undefined 
+ COMMAND: movie-this QUERY: the matrix 
+ COMMAND: spotify-this-song QUERY: "I Want it That Way" 
+ Do What It Says was used.
+ COMMAND: spotify-this-song QUERY: "I Want it That Way" 
+ Do What It Says was used.
+ COMMAND: spotify-this-song QUERY: "I Want it That Way" 
+ Do What It Says was used.
+ COMMAND: movie-this QUERY: undefined 
