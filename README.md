@@ -43,6 +43,9 @@ A Node-js Application! LIRI will search Spotify for songs, Bands in Town for con
 
 * node liri.js do-what-it-says
     this will read commands and queries from the random.txt file and run the corresponding function. In this case 'spotify-this'
+    
+* All commands and queries entered are stored in log.txt file!
+
 # Here I searched Take Five on spotify!
 ![ScreenShot](img/spotify-take-five.png "Spotify")
 # Here I left the search blank!
